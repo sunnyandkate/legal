@@ -2,31 +2,31 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: teal;
-  background-color: pink;
-  font-family: "Shadows Into Light", cursive;
+   color: #26394c;
+  background-color: #EFE2BA;
+  font-family: helvetica;
 }
-.container {
+.legal {
   width: 80%;
   margin: 3rem auto;
   line-height: 2rem;
   letter-spacing: 2px;
 }
-.container h1 {
+.legal h1 {
   padding-bottom: 2rem;
   border-bottom: 2px solid teal;
   text-align: center;
   width: 90%;
 }
-.container a {
+.legal a {
   text-decoration: none;
-  color: purple;
+  color: #795548;
   font-family: helvetica;
-  display: block;
+  
   letter-spacing: normal;
   transition: all ease-in 1s;
 }
 .container a:hover {
-  color: teal;
+  color: hotpink;
   opacity: 0.7;
 }
